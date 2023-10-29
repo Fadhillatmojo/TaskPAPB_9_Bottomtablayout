@@ -29,7 +29,7 @@ class ProfileFragment : Fragment() {
         // mendefinisikan komponen dengan binding
         logoutButton = binding.btnLogout
 
-        // set onclick listener ketika login button dipencet
+        // set onclick listener ketika logout button dipencet
         logoutButton.setOnClickListener{
             // intent untuk logout
             val intenttoLoginActivity = Intent(context, LoginActivity::class.java)
