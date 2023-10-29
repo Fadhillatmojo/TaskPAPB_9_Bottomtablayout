@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TaskPAPB_9_Bottomtablayout</string>
+    <!--    login screen-->
+    <string name="title_login">Login</string>
+    <string name="desc_Login">Welcome back to Fadhil Ticket, its time to book your favorite movie in your favorite cinemas</string>
+    <string name="no_account">Dont Have an Account?</string>
+    <string name="forgot_pass">Forgot your password?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
